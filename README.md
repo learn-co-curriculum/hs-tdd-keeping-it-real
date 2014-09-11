@@ -7,7 +7,7 @@ type: culture
 
 <img src="http://funnyfilez.funnypart.com/pictures/FunnyPart-com-batman_fail.jpg">
 
-+ Watch this Video: (https://www.youtube.com/watch?v=-MYYdgObRJc)
++ [Watch this Video](https://www.youtube.com/watch?v=-MYYdgObRJc)
 
 + [Building Resilience](http://hbr.org/2011/04/building-resilience/ar/1)
 
