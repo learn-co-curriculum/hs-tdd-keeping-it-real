@@ -3,7 +3,7 @@ tags: tdd
 type: culture
 ---
 ## You Got This!
-<img src="https://s3.amazonaws.com/after-school-assets/awesome.jpg" width="300">
+<img src="https://s3.amazonaws.com/after-school-assets/awesome.jpg" width="400" align="right" hspace="10">
 + [Watch this](https://www.youtube.com/watch?v=-MYYdgObRJc) Michael Jordan "Failure" Inspirational Speech 
 
 + [Building Resilience](http://hbr.org/2011/04/building-resilience/ar/1) Article from Harvard Business Review
