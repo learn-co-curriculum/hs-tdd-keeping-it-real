@@ -1,7 +1,4 @@
----
-tags: tdd
-type: culture
----
+
 ## You Got This!
 <img src="https://s3.amazonaws.com/after-school-assets/awesome.jpg" width="400" align="right" hspace="10">
 + Watch this [Michael Jordan](https://www.youtube.com/watch?v=-MYYdgObRJc) "failure" inspirational video.
